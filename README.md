@@ -1,0 +1,1 @@
+# Javascript1_prestupny_rok_jako_funkce
